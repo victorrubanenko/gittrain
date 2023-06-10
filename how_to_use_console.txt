@@ -1,0 +1,5 @@
+cd FOLDER_NAME - Move to folder FOLDER_NAME
+cd .. - Move to mother folder
+ls - Check what is in current folder
+code FILE_NAME - Open FILE_NAME with VSCode
+code . - Open curren folder with VSCode
